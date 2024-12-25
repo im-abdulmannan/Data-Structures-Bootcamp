@@ -2,8 +2,19 @@
 
 **LeetCode 100-problem playlist** that starts with basic problems and gradually advances through data structures and algorithms (DSA). The problems are grouped by topic, progressing from beginner to advanced levels.
 
+- Start with the easiest problems to build confidence.  
+- Focus on learning how different problems are solved instead of trying to solve everything on your own.  
+- Spend no more than 1 hour on a problem at first. If it takes longer, set it aside to revisit later.  
+- Aim to solve problems in 30-45 minutes on average to practice speed and efficiency.  
+- Solve 5-10 problems per topic instead of doing too many from the same area.  
+- Make sure you learn the basics before solving problems. For example:  
+  - Study HashSet/HashMap before solving problems that need them.  
+  - Learn recursion before solving problems using recursion.  
+  - Understand graphs and trees before working on those topics.  
+  - Learn dynamic programming before tackling related problems.  
+
 ---
-### 0. Pre-requisites
+### 0. Warm up
 1. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)
 2. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 3. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -14,6 +25,15 @@
 8. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 9. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
+- Basic Understanding of Data structures in your language (C++ STL, C# Collections, Python Standard Library)
+  - In C++: https://youtu.be/RRVYpIET_RU?si=xI1JBIVbtCkj_Iq7
+
+- If you like C++ and more details > My code school Data Structures
+  - https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P (C++)
+
+- If you like Python > code basics - Data Structures
+  - https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+
 ---
 
 ### 1. Arrays && Hashing
@@ -23,7 +43,7 @@
 4. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 5. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 6. [Merge Intervals](https://leetcode.com/problems/merge-intervals)
-7. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+7. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 8. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
 9. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 10. [4Sum](https://leetcode.com/problems/4sum/)
@@ -31,20 +51,19 @@
 ---
 
 ### 2. Strings
-11. Valid Palindrome  
-12. Longest Palindromic Substring  
-13. Group Anagrams  
-14. Longest Substring Without Repeating Characters  
-15. Implement strStr()  
-16. Longest Common Prefix  
-17. Valid Parentheses  
-18. Count and Say  
-19. Roman to Integer  
-20. Integer to Roman  
+11. [Reverse String](https://leetcode.com/problems/reverse-string/)
+12. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+13. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+14. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+15. [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+16. [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
+17. [Repeated substring pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+18. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+19. [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 
 ---
 
-### **3. Sliding Window**
+### 3. Sliding Window
 21. Maximum Average Subarray I  
 22. Minimum Window Substring  
 23. Sliding Window Maximum  
