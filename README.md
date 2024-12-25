@@ -16,17 +16,17 @@
 
 ---
 
-### 1. Arrays and Hashing
-1. Two Sum  
-2. Contains Duplicate  
-3. Best Time to Buy and Sell Stock  
-4. Product of Array Except Self  
-5. Maximum Subarray  
-6. Merge Intervals  
-7. Valid Anagram  
-8. Subarray Sum Equals K  
-9. Longest Consecutive Sequence  
-10. 4Sum  
+### 1. Arrays && Hashing
+1. [Two Sum](https://leetcode.com/problems/two-sum/)
+2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+4. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+5. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+6. [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+7. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+8. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
+9. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
+10. [4Sum](https://leetcode.com/problems/4sum/)
 
 ---
 
